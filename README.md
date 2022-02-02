@@ -7,5 +7,6 @@ In my daily activities I faced and solved a lot of issues with the application a
 # My guides:
 
 - [Fix email configuration problem](https://github.com/ioulosve/geonetwork-guides/blob/main/fix-email-bug.md)
+- [Customize formatters](https://github.com/ioulosve/geonetwork-guides/blob/main/customize-formatters.md)
 
 
